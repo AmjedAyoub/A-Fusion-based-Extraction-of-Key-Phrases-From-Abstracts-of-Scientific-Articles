@@ -1,4 +1,4 @@
-![Image](./1.png)
+![Image](./1.PNG)
 # Abstract
 ## A Fusion-based Extraction of Key Phrases From Abstracts of Scientific Articles
 #### By
