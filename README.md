@@ -24,7 +24,8 @@ After implementing the six fusion-based techniques, it was concluded that the te
 
 ## Technologies & Tools
 * Perl programming language
-* 
+* Strawberry Perl 5.30.1.1, For more information please [click here](http://strawberryperl.com/).
+* Notepad++
 
 ## Links
 This program is published on [GitHub](https://github.com/AmjedAyoub/A-Fusion-based-Extraction-of-Key-Phrases-From-Abstracts-of-Scientific-Articles).
