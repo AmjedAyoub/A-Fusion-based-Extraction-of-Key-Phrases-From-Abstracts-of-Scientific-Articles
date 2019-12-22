@@ -13,13 +13,13 @@ After implementing the four techniques above, the results were evaluated using p
 
 The maximum recall that has been achieved on this testing set using RAKE is 0.4996, precision is 0.4061, and F-measure is 0.43. Regarding TextRank, its maximum achieved recall is 0.5044, precision is 0.4081, and F-measure is 0.4324. The last original technique, N-grams, obtained its highest recall of 0.4832, precision of 0.4048, and F-measure of 0.4233. 
 
-![image](./3tech.png)
+![image](./images/3tech.png)
 
 Finally, in order to achieve the highest results possible, six different fusion-based techniques has been implemented. Each one of the six techniques used a different strategy.\
 The first technique was All Keywords Fusion which is based on term frequency, the second was Majority Voting, which is based on document frequency, the third was Borda Voting that is based on Borda count voting procedure by assigning weights for each candidate keyword, the fourth technique is based on combining term weight and document frequency using CombMNZ algorithm, which named CombMNZ, the fifth fusion-based technique was WCombMNZ which is similar to the CombMNZ but with the difference of the weight for each technique from the original RAKE, TextRank, and N-grams that was assigned. Finally, the sixth technique was named Condorcet technique, it used the Condorcet voting algorithm.\
 After implementing the six fusion-based techniques, it was concluded that the technique that generated the highest results was the WCombMNZ technique compared to the other five techniques. The technique achieved a recall value of 0.5117, a precision value of 0.4139, and F-measure value of 0.4387.
 
-![image](./6tech.PNG)
+![image](./images/6tech.PNG)
 
 
 ## Technologies & Tools
