@@ -30,6 +30,9 @@ After implementing the six fusion-based techniques, it was concluded that the te
 ## Links
 This program is published on [GitHub](https://github.com/AmjedAyoub/A-Fusion-based-Extraction-of-Key-Phrases-From-Abstracts-of-Scientific-Articles).
 
+## Authors
+See contribution history [here](https://github.com/AmjedAyoub/A-Fusion-based-Extraction-of-Key-Phrases-From-Abstracts-of-Scientific-Articles/graphs/contributors).
+
 ## Future Work
 This research can be further developed and improved in a number of directions as follows:
 * Improving the system to be applied to more documents by increasing dataset size.
